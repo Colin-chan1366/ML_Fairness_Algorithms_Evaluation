@@ -3,8 +3,9 @@
 
 In this project, working in teams, you will implement, evaluate and **compare** algorithms for **Machine Learning Fairness**.
 
-Algorithm 1: Fairness Constraints: Mechanisms for Fair Classification
-Algorithm 2: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment
+   - Algorithm 1: Fairness Constraints: Mechanisms for Fair Classification
+   
+   - Algorithm 2: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment
 
 ### Challenge
 *Machine Learning Fairness* refers to correcting the unfairness for certain groups or individuals in machine learning algorithms' predictions.
