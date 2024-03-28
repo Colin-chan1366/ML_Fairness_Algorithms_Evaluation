@@ -7,6 +7,13 @@ In this project, working in teams, you will implement, evaluate and **compare** 
    
    - Algorithm 2: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment
 
+
+### Team:
+   - Jianfeng Chen (Colin)
+   - Yiwei Jiang
+   - Tianyi Chen
+   - Yinpei Wang
+
 ### Challenge
 *Machine Learning Fairness* refers to correcting the unfairness for certain groups or individuals in machine learning algorithms' predictions.
 
