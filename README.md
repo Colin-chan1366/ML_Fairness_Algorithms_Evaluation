@@ -22,7 +22,7 @@ For presentation, each team should briefly explain
 
 ### [Project Description](doc/project4_desc.md)
 
-**Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. ([default](doc/a_note_on_contributions.md)) 
+**Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. ([default](lib/a_note_on_contributions.md)) 
 
 	+ Colin Chan 
 	+ Yinpei Wang
