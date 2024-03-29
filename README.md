@@ -51,19 +51,24 @@ Each week, we will give a tutorial in class and having live discussion and brain
 
 *(More details will be posted as grading rubrics in courseoworks/canvas)*
 
-### Suggested team workflow
-1. [wk1] Week 1 is the **reading and coding** week. Read the papers, understand the algorithms assigned to you and start coding up the algorithms; Also load the data and understand its structure. 
-2. [wk1] As a team, brainstorm about your evaluation plan.  
-3. [wk2] Based on the outcomes from week 1's reading and brainstorm sessions, continue coding and start evaluation. 
-4. [wk2] Week 2 is the **evaluation** week. 
-5. [wk2] It is ok to separate into two sub-teams, each one working on one algorithm, as long as the two teams have the same criteria for evaluating the algorithms. The two sub-teams can also serve as each other's validators. 
-6. [wk3] By using R/Python Notebook to carry out coding and evaluation, your final report can just be adding explanation and comments to your Notebook. 
-7. [wk3] Week 3 is the **report writing** week. You want to create clear explanation and illustration of the algorithms by using diagrams (can be borrowed from the papers), case examples, summarizing statistcs, and visualizations of performance statistics.
+# Project 4: Machine Learning Fairness
 
-### Working together
-- Setup a GitHub project folder from joining the GitHub classroom link with everyone listed as contributors. Everyone clones the project locally via your GitHub desktop and create a local branch. 
-- The team can work in subgroups of 2-3, which might meet more frequently than the entire team. However, everyone should check in regularly on group discussion online and changes in the GitHub folder.
-- Learn to work together is an important learning goal of this course.   
+### [Project Description](doc/project4_desc.md)
+
+**Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+
+Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+
+```
+proj/
+├── lib/
+├── data/
+├── doc/
+├── figs/
+└── output/
+```
+
+Please see each subfolder for a README file.
 
 ### Resources
 
