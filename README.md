@@ -51,8 +51,6 @@ Each week, we will give a tutorial in class and having live discussion and brain
 
 *(More details will be posted as grading rubrics in courseoworks/canvas)*
 
-# Project 4: Machine Learning Fairness
-
 ### [Project Description](doc/project4_desc.md)
 
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
