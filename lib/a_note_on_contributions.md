@@ -17,8 +17,20 @@ Team members: Jianfeng Chen(Colin), Yinpei Wang, Tianyi Chen, Yiwei Jiang
 
 Summary: 
 
-In this project, ...
+`paper 1`:Fairness Constraints: Mechanisms for Fair Classification
+
+
+`paper 2`:Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment
+
+In this project, Colin implement the algorithms according to paper on how to reduce bias in machine learning models by introducing equality constraints. 
+
+First, the original data was read and preprocessed, one-hot encoding was implemented on the categorical features, and missing values were processed. Then, an unconstrained logistic regression model was constructed as a baseline. In order to evaluate the degree of deviation of the model, multiple indicators for measuring deviation are defined and implemented, such as Statistical Parity Difference, Equal Opportunity Difference, and Average Odds Difference. By analyzing these indicators, he found that the unconstrained model had certain bias problems. In order to obtain a relatively unbiased model, the innovative method of introducing equality constraints in the training process was proposed in the paper. For example, constraints such as Statistical Parity Constraint and Conditional Demographic Disparity were designed and implemented and incorporated into the model training process to reduce model deviations in sensitive attributes. In addition, Colin further optimized the model training method, taking all equality constraints into consideration and transforming it into a constrained optimization problem. By solving this optimization problem, he successfully obtained model parameters that satisfied multiple constraints and achieved comprehensive control of model deviations.
+
+In addition, Yinpei ...
 
 [Contribution Statement] 
 
-Colin designed the study which include 'Learning From Noisy Large-Scale Datasets With Minimal Supervision' ...
+`paper 1`:Tianyi Chen & Yiwei Jiang
+`paper 2`:Jianfeng Chen(Colin) & Yinpei Wang
+`presentation`:Yinpei Wang
+
