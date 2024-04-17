@@ -19,6 +19,12 @@ Summary:
 
 `paper 1`:Fairness Constraints: Mechanisms for Fair Classification
 
+In this project, Tianyi Chen ... Yiwei Jiang...
+
+## 
+## 
+## 
+
 
 `paper 2`:Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment
 
@@ -30,7 +36,9 @@ In addition, Yinpei ...
 
 [Contribution Statement] 
 
-`paper 1`:Tianyi Chen & Yiwei Jiang
+`paper 1`:Tianyi Chen & Yiwei Jiang 
+
 `paper 2`:Jianfeng Chen(Colin) & Yinpei Wang
+
 `presentation`:Yinpei Wang
 
